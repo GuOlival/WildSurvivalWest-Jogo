@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c775a00c71d5f39469e1d9a6b4ed8cfb, type: 3}
+  m_Name: Coracao
+  m_EditorClassIdentifier: 
+  NomeObjeto: Coracao
+  sprite: {fileID: -8843976880988234773, guid: cd4a1735a295ad94e90992d24cce4921, type: 3}
+  quantidade: 1
+  empilhavel: 0
+  tipoItem: 1

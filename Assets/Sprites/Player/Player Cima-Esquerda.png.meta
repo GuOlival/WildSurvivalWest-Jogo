@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: be1e3eb56c61f6e46b96ec3ab9af5d44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8666533304073837618
+    second: Player Cima-Esquerda_0
+  - first:
+      213: -1984612492901340608
+    second: Player Cima-Esquerda_1
+  - first:
+      213: 5737807354273211062
+    second: Player Cima-Esquerda_2
+  - first:
+      213: -3567832588767338797
+    second: Player Cima-Esquerda_3
+  - first:
+      213: -6299030113089507367
+    second: Player Cima-Esquerda_4
+  - first:
+      213: 419757913872481611
+    second: Player Cima-Esquerda_5
+  - first:
+      213: 1770261694552379816
+    second: Player Cima-Esquerda_6
+  - first:
+      213: 4299175698388101407
+    second: Player Cima-Esquerda_7
+  - first:
+      213: 3536191866414082442
+    second: Player Cima-Esquerda_8
+  - first:
+      213: 8712086132829333345
+    second: Player Cima-Esquerda_9
+  - first:
+      213: -6985532701123484085
+    second: Player Cima-Esquerda_10
+  - first:
+      213: 3289123914830621768
+    second: Player Cima-Esquerda_11
+  - first:
+      213: -340652534048994264
+    second: Player Cima-Esquerda_12
+  - first:
+      213: -1859463489444167745
+    second: Player Cima-Esquerda_13
+  - first:
+      213: 824698645829484763
+    second: Player Cima-Esquerda_14
+  - first:
+      213: 4373947831014833744
+    second: Player Cima-Esquerda_15
+  - first:
+      213: -7251877443824115058
+    second: Player Cima-Esquerda_16
+  - first:
+      213: -7229979952018828419
+    second: Player Cima-Esquerda_17
+  - first:
+      213: 542697389453522288
+    second: Player Cima-Esquerda_18
+  - first:
+      213: 8368608731635432190
+    second: Player Cima-Esquerda_19
+  - first:
+      213: 464499962150681069
+    second: Player Cima-Esquerda_20
+  - first:
+      213: 3846154954004745675
+    second: Player Cima-Esquerda_21
+  - first:
+      213: -5475014384921072949
+    second: Player Cima-Esquerda_22
+  - first:
+      213: 9121158454967924440
+    second: Player Cima-Esquerda_23
+  - first:
+      213: -1469340827847998603
+    second: Player Cima-Esquerda_24
+  - first:
+      213: -1878930682201674883
+    second: Player Cima-Esquerda_25
+  - first:
+      213: 4647909168887955438
+    second: Player Cima-Esquerda_26
+  - first:
+      213: -193894361952335262
+    second: Player Cima-Esquerda_27
+  - first:
+      213: -6570166239046320402
+    second: Player Cima-Esquerda_28
+  - first:
+      213: -8816027185922860056
+    second: Player Cima-Esquerda_29
+  - first:
+      213: -3904648365169127885
+    second: Player Cima-Esquerda_30
+  - first:
+      213: 7535618061427615581
+    second: Player Cima-Esquerda_31
+  - first:
+      213: 4642287698758362972
+    second: Player Cima-Esquerda_32
+  - first:
+      213: -7475757012353584753
+    second: Player Cima-Esquerda_33
+  - first:
+      213: 7292520220820206921
+    second: Player Cima-Esquerda_34
+  - first:
+      213: -1209815971976005413
+    second: Player Cima-Esquerda_35
+  - first:
+      213: -2664778400145843849
+    second: Player Cima-Esquerda_36
+  - first:
+      213: -3425668399070269580
+    second: Player Cima-Esquerda_37
+  - first:
+      213: 7974713649902810136
+    second: Player Cima-Esquerda_38
+  - first:
+      213: -1332808945416435488
+    second: Player Cima-Esquerda_39
+  - first:
+      213: -1821247140746754729
+    second: Player Cima-Esquerda_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 178
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3269090e94ab780800000000000000
+      internalID: -8666533304073837618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 178
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a20dfd37d3574e0800000000000000
+      internalID: -1984612492901340608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b224157369c0af40800000000000000
+      internalID: 5737807354273211062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ded578e9238c7ec0800000000000000
+      internalID: -3567832588767338797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfafcf5c795598a0800000000000000
+      internalID: -6299030113089507367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 178
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d3704499743d500800000000000000
+      internalID: 419757913872481611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 134
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19647c1ab319810800000000000000
+      internalID: 1770261694552379816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 134
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f192a69058db9ab30800000000000000
+      internalID: 4299175698388101407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 134
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ac3754c3131130800000000000000
+      internalID: 3536191866414082442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 134
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16726efdd2c87e870800000000000000
+      internalID: 8712086132829333345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 134
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e8aee4076e0f90800000000000000
+      internalID: -6985532701123484085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 134
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca8b526c055ad20800000000000000
+      internalID: 3289123914830621768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 134
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c4c2c3352c54bf0800000000000000
+      internalID: -340652534048994264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 134
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3fd6eecbd136e0800000000000000
+      internalID: -1859463489444167745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd089678c0be17b00800000000000000
+      internalID: 824698645829484763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ebabdc06263bc30800000000000000
+      internalID: 4373947831014833744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 90
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82223e03e72c5b90800000000000000
+      internalID: -7251877443824115058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 90
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d8ba2a83f9ab90800000000000000
+      internalID: -7229979952018828419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 90
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b8ee766c088700800000000000000
+      internalID: 542697389453522288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efabc597d45432470800000000000000
+      internalID: 8368608731635432190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 51
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de97c2a214c327600800000000000000
+      internalID: 464499962150681069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 22
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdcf888d89406530800000000000000
+      internalID: 3846154954004745675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 25
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca20aebc67d404b0800000000000000
+      internalID: -5475014384921072949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 26
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6f960f94dd49e70800000000000000
+      internalID: 9121158454967924440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573442e4d4adb9be0800000000000000
+      internalID: -1469340827847998603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 10
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b69c1ef72bce5e0800000000000000
+      internalID: -1878930682201674883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff8df63c0b08040800000000000000
+      internalID: 4647909168887955438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a41e7ea162f4df0800000000000000
+      internalID: -193894361952335262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3166ad9412d4a0800000000000000
+      internalID: -6570166239046320402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb91e4dbfd27a580800000000000000
+      internalID: -8816027185922860056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ec845eff6efc9c0800000000000000
+      internalID: -3904648365169127885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57296293b4e39860800000000000000
+      internalID: 7535618061427615581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5768ade018bc6040800000000000000
+      internalID: 4642287698758362972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8177830b96c04890800000000000000
+      internalID: -7475757012353584753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945775fd08c343560800000000000000
+      internalID: 7292520220820206921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b6ca88ced53fe0800000000000000
+      internalID: -1209815971976005413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795c26e92ec40bd0800000000000000
+      internalID: -2664778400145843849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fa223bdb49570d0800000000000000
+      internalID: -3425668399070269580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_38
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 10
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147aef00dfdbae60800000000000000
+      internalID: 7974713649902810136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e88dfe5359e08de0800000000000000
+      internalID: -1332808945416435488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Cima-Esquerda_40
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7550897ff51a9b6e0800000000000000
+      internalID: -1821247140746754729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

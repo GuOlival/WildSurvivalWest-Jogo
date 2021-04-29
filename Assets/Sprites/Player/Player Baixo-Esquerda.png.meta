@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: f5bde2b0e66b2ca4e9e7a81297d4e79a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7471094443107220052
+    second: Player Baixo-Esquerda_0
+  - first:
+      213: 6262853884073668580
+    second: Player Baixo-Esquerda_1
+  - first:
+      213: -6734545064479535233
+    second: Player Baixo-Esquerda_2
+  - first:
+      213: 2288424100264030143
+    second: Player Baixo-Esquerda_3
+  - first:
+      213: 4780605129032388345
+    second: Player Baixo-Esquerda_4
+  - first:
+      213: 7893034268993717622
+    second: Player Baixo-Esquerda_5
+  - first:
+      213: -6346448785023997732
+    second: Player Baixo-Esquerda_6
+  - first:
+      213: -8703560822999534232
+    second: Player Baixo-Esquerda_7
+  - first:
+      213: 2953310287509248224
+    second: Player Baixo-Esquerda_8
+  - first:
+      213: -5850782193461573137
+    second: Player Baixo-Esquerda_9
+  - first:
+      213: -7598947673731714409
+    second: Player Baixo-Esquerda_10
+  - first:
+      213: 8350712178322772544
+    second: Player Baixo-Esquerda_11
+  - first:
+      213: -770861597176506504
+    second: Player Baixo-Esquerda_12
+  - first:
+      213: 6813069298502218847
+    second: Player Baixo-Esquerda_13
+  - first:
+      213: 8780109236332373990
+    second: Player Baixo-Esquerda_14
+  - first:
+      213: -3270946537440444377
+    second: Player Baixo-Esquerda_15
+  - first:
+      213: 95827651685601932
+    second: Player Baixo-Esquerda_16
+  - first:
+      213: -3802686862609691459
+    second: Player Baixo-Esquerda_17
+  - first:
+      213: -901766028064916270
+    second: Player Baixo-Esquerda_18
+  - first:
+      213: 6850158948690538698
+    second: Player Baixo-Esquerda_19
+  - first:
+      213: -6079745238834443523
+    second: Player Baixo-Esquerda_20
+  - first:
+      213: 657560689922880903
+    second: Player Baixo-Esquerda_21
+  - first:
+      213: -7983971829693322873
+    second: Player Baixo-Esquerda_22
+  - first:
+      213: -1433405097149103072
+    second: Player Baixo-Esquerda_23
+  - first:
+      213: -1165117848700541011
+    second: Player Baixo-Esquerda_24
+  - first:
+      213: -4464364878008751307
+    second: Player Baixo-Esquerda_25
+  - first:
+      213: 4003051084993511471
+    second: Player Baixo-Esquerda_26
+  - first:
+      213: 7644300235663663194
+    second: Player Baixo-Esquerda_27
+  - first:
+      213: -2047405678851323039
+    second: Player Baixo-Esquerda_28
+  - first:
+      213: -2750423399662177476
+    second: Player Baixo-Esquerda_29
+  - first:
+      213: 7326528072723433823
+    second: Player Baixo-Esquerda_30
+  - first:
+      213: 4213543161674719868
+    second: Player Baixo-Esquerda_31
+  - first:
+      213: 6697319039691496696
+    second: Player Baixo-Esquerda_32
+  - first:
+      213: 6770285544589327590
+    second: Player Baixo-Esquerda_33
+  - first:
+      213: 120264643834479217
+    second: Player Baixo-Esquerda_34
+  - first:
+      213: 5891974278631235710
+    second: Player Baixo-Esquerda_35
+  - first:
+      213: 4907379663509523059
+    second: Player Baixo-Esquerda_36
+  - first:
+      213: -7747160556842264704
+    second: Player Baixo-Esquerda_37
+  - first:
+      213: -8932663109995896013
+    second: Player Baixo-Esquerda_38
+  - first:
+      213: -1067860343619166453
+    second: Player Baixo-Esquerda_39
+  - first:
+      213: 4507265759766531099
+    second: Player Baixo-Esquerda_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 178
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45afcccffc8aea760800000000000000
+      internalID: 7471094443107220052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 178
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efe260fc602ae650800000000000000
+      internalID: 6262853884073668580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f46dbe1f61a82a0800000000000000
+      internalID: -6734545064479535233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2ea7389d12cf10800000000000000
+      internalID: 2288424100264030143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec26f390f185240800000000000000
+      internalID: 4780605129032388345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 178
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750b5b39d0b98d60800000000000000
+      internalID: 7893034268993717622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 134
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86f677472ece7a0800000000000000
+      internalID: -6346448785023997732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 134
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653b108b8db63780800000000000000
+      internalID: -8703560822999534232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 134
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8de762f044cf820800000000000000
+      internalID: 2953310287509248224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 134
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ca840898ddcea0800000000000000
+      internalID: -5850782193461573137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 134
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b0780a5d1b8690800000000000000
+      internalID: -7598947673731714409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 134
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04215727b70b3e370800000000000000
+      internalID: 8350712178322772544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 134
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877dd4926795d45f0800000000000000
+      internalID: -770861597176506504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 134
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5438570e62ec8e50800000000000000
+      internalID: 6813069298502218847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a7b8d4d639d970800000000000000
+      internalID: 8780109236332373990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 90
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720819454734b92d0800000000000000
+      internalID: -3270946537440444377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 90
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825162ddb2745100800000000000000
+      internalID: 95827651685601932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 90
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcca1a22742a3bc0800000000000000
+      internalID: -3802686862609691459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 90
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcfca243984c73f0800000000000000
+      internalID: -901766028064916270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b9a72547a01f50800000000000000
+      internalID: 6850158948690538698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 51
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa866acae760aba0800000000000000
+      internalID: -6079745238834443523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 22
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7853d1da6ff102900800000000000000
+      internalID: 657560689922880903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 25
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789676afbeb333190800000000000000
+      internalID: -7983971829693322873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 26
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024813d98a58b1ce0800000000000000
+      internalID: -1433405097149103072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7acba5d7ba4dfe0800000000000000
+      internalID: -1165117848700541011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 10
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bee82fbc36b02c0800000000000000
+      internalID: -4464364878008751307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c7c2b0c1bd8730800000000000000
+      internalID: 4003051084993511471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ea272092061a60800000000000000
+      internalID: 7644300235663663194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b03f8f1672693e0800000000000000
+      internalID: -2047405678851323039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33b6398d7884d9d0800000000000000
+      internalID: -2750423399662177476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f598b9be67e0da560800000000000000
+      internalID: 7326528072723433823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72e5656e23897a30800000000000000
+      internalID: 4213543161674719868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc9544ce28a1fc50800000000000000
+      internalID: 6697319039691496696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec753115d2e4fd50800000000000000
+      internalID: 6770285544589327590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1720bce6e044ba100800000000000000
+      internalID: 120264643834479217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ad8fa36f74c150800000000000000
+      internalID: 5891974278631235710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a0675bdc38a1440800000000000000
+      internalID: 4907379663509523059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087df7f058e8c7490800000000000000
+      internalID: -7747160556842264704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_38
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 10
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333657e8a3ec80480800000000000000
+      internalID: -8932663109995896013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5adcdca23e21f0800000000000000
+      internalID: -1067860343619166453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Baixo-Esquerda_40
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c4a27f3560d8e30800000000000000
+      internalID: 4507265759766531099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

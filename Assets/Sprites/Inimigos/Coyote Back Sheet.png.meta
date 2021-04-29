@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 2ab745579d2b2594282aa99578e2cda8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1515983699700659709
+    second: Coyote Back Sheet_0
+  - first:
+      213: -991321450389156549
+    second: Coyote Back Sheet_1
+  - first:
+      213: -3509903373708024153
+    second: Coyote Back Sheet_2
+  - first:
+      213: 4883447816338724155
+    second: Coyote Back Sheet_3
+  - first:
+      213: -2533199803775812473
+    second: Coyote Back Sheet_4
+  - first:
+      213: -2996490853966301773
+    second: Coyote Back Sheet_5
+  - first:
+      213: -4075660047781864817
+    second: Coyote Back Sheet_6
+  - first:
+      213: -6303639995356299096
+    second: Coyote Back Sheet_7
+  - first:
+      213: 3328267143432573338
+    second: Coyote Back Sheet_8
+  - first:
+      213: 3598228787882501053
+    second: Coyote Back Sheet_9
+  - first:
+      213: 8200647320968744912
+    second: Coyote Back Sheet_10
+  - first:
+      213: -6411089603052536084
+    second: Coyote Back Sheet_11
+  - first:
+      213: 3589167325067262679
+    second: Coyote Back Sheet_12
+  - first:
+      213: -6439189664424637544
+    second: Coyote Back Sheet_13
+  - first:
+      213: 916277029028207571
+    second: Coyote Back Sheet_14
+  - first:
+      213: -3324786924712220946
+    second: Coyote Back Sheet_15
+  - first:
+      213: -6026205544669745091
+    second: Coyote Back Sheet_16
+  - first:
+      213: -6279184355538552593
+    second: Coyote Back Sheet_17
+  - first:
+      213: 863902695192310072
+    second: Coyote Back Sheet_18
+  - first:
+      213: 114883683699172848
+    second: Coyote Back Sheet_19
+  - first:
+      213: -3124264732191783428
+    second: Coyote Back Sheet_20
+  - first:
+      213: -2747121479502751893
+    second: Coyote Back Sheet_21
+  - first:
+      213: -3786732143437483735
+    second: Coyote Back Sheet_22
+  - first:
+      213: 7143085993795744507
+    second: Coyote Back Sheet_23
+  - first:
+      213: 7076855906339481789
+    second: Coyote Back Sheet_24
+  - first:
+      213: 7094190899314975361
+    second: Coyote Back Sheet_25
+  - first:
+      213: -6456680507720555148
+    second: Coyote Back Sheet_26
+  - first:
+      213: 6536078715203748348
+    second: Coyote Back Sheet_27
+  - first:
+      213: -6525673106704095633
+    second: Coyote Back Sheet_28
+  - first:
+      213: 7812901424948152710
+    second: Coyote Back Sheet_29
+  - first:
+      213: -7171090362548403741
+    second: Coyote Back Sheet_30
+  - first:
+      213: -215696951981210442
+    second: Coyote Back Sheet_31
+  - first:
+      213: -7290817150860690189
+    second: Coyote Back Sheet_32
+  - first:
+      213: 1615285092618223917
+    second: Coyote Back Sheet_33
+  - first:
+      213: -2740966466618873092
+    second: Coyote Back Sheet_34
+  - first:
+      213: 7153026393824977212
+    second: Coyote Back Sheet_35
+  - first:
+      213: -5872074472401489005
+    second: Coyote Back Sheet_36
+  - first:
+      213: 7066681054850112367
+    second: Coyote Back Sheet_37
+  - first:
+      213: -6474302857006188408
+    second: Coyote Back Sheet_38
+  - first:
+      213: -107985494736895751
+    second: Coyote Back Sheet_39
+  - first:
+      213: -5645535424126319727
+    second: Coyote Back Sheet_40
+  - first:
+      213: 1271645214775941383
+    second: Coyote Back Sheet_41
+  - first:
+      213: -6521623307663434591
+    second: Coyote Back Sheet_42
+  - first:
+      213: 9034435010460708015
+    second: Coyote Back Sheet_43
+  - first:
+      213: 7420940631197362961
+    second: Coyote Back Sheet_44
+  - first:
+      213: 675212501048185937
+    second: Coyote Back Sheet_45
+  - first:
+      213: -5358068273218894432
+    second: Coyote Back Sheet_46
+  - first:
+      213: 184885522158893243
+    second: Coyote Back Sheet_47
+  - first:
+      213: -6750749086817246844
+    second: Coyote Back Sheet_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coyote Back Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 231
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a4f0e6bd426fae0800000000000000
+      internalID: -1515983699700659709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 231
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4453a46e1e32f0800000000000000
+      internalID: -991321450389156549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 231
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a620365a715a4fc0800000000000000
+      internalID: -3509903373708024153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 231
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d6045aed75c340800000000000000
+      internalID: 4883447816338724155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 231
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c7ade233448dcd0800000000000000
+      internalID: -2533199803775812473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b1a4c1735a66d0800000000000000
+      internalID: -2996490853966301773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 231
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad5b2c7c85077c0800000000000000
+      internalID: -4075660047781864817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 161
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c7d482d8f488a0800000000000000
+      internalID: -6303639995356299096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9117e14551603e20800000000000000
+      internalID: 3328267143432573338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 161
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32252b40a7fe130800000000000000
+      internalID: 3598228787882501053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfc99e1a4d8ec170800000000000000
+      internalID: 8200647320968744912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7ad239fb3707a0800000000000000
+      internalID: -6411089603052536084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab21a7aa84fc130800000000000000
+      internalID: 3589167325067262679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4a92dd1763a6a0800000000000000
+      internalID: -6439189664424637544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 161
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db931f6a1547bc00800000000000000
+      internalID: 916277029028207571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 161
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62aae48ebfbd1d0800000000000000
+      internalID: -3324786924712220946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 161
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30787e3cfd9e5ca0800000000000000
+      internalID: -6026205544669745091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe83fe0e81bdbd8a0800000000000000
+      internalID: -6279184355538552593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b0739ce23dfb00800000000000000
+      internalID: 863902695192310072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a0650a16289100800000000000000
+      internalID: 114883683699172848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 161
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58d6577c164a4d0800000000000000
+      internalID: -3124264732191783428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67946bb19340e9d0800000000000000
+      internalID: -2747121479502751893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 91
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fad2bd23d27bc0800000000000000
+      internalID: -3786732143437483735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 91
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2734c9dd6512360800000000000000
+      internalID: 7143085993795744507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 91
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86df7b3fa063260800000000000000
+      internalID: 7076855906339481789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 91
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1826a7a4901a37260800000000000000
+      internalID: 7094190899314975361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 91
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a02589434566a0800000000000000
+      internalID: -6456680507720555148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 91
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf106bb36f0d4ba50800000000000000
+      internalID: 6536078715203748348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 91
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66259a42e62075a0800000000000000
+      internalID: -6525673106704095633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 91
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6898d2393700d6c60800000000000000
+      internalID: 7812901424948152710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 91
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e143103f4b2b7c90800000000000000
+      internalID: -7171090362548403741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 91
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b48606d3c0b10df0800000000000000
+      internalID: -215696951981210442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 91
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc7f900e60d1da90800000000000000
+      internalID: -7290817150860690189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 91
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d214e7ccb35aa6610800000000000000
+      internalID: 1615285092618223917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 91
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaace7558126f9d0800000000000000
+      internalID: -2740966466618873092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 125
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c316ee85b97a44360800000000000000
+      internalID: 7153026393824977212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 91
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393bed10163328ea0800000000000000
+      internalID: -5872074472401489005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd25f7af4e11260800000000000000
+      internalID: 7066681054850112367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 91
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88879d79ad7a626a0800000000000000
+      internalID: -6474302857006188408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 115
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00051c3cb508ef0800000000000000
+      internalID: -107985494736895751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 91
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193011e617707a1b0800000000000000
+      internalID: -5645535424126319727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 91
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7099b0bd59ac5a110800000000000000
+      internalID: 1271645214775941383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 91
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac10db972a8e75a0800000000000000
+      internalID: -6521623307663434591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 91
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facecd886c2c06d70800000000000000
+      internalID: 9034435010460708015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 91
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b28cdaf2a7cf660800000000000000
+      internalID: 7420940631197362961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 91
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15451e83136de5900800000000000000
+      internalID: 675212501048185937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 91
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a54f743b4154a5b0800000000000000
+      internalID: -5358068273218894432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8b4602768d09200800000000000000
+      internalID: 184885522158893243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coyote Back Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 23
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812778f8758052a0800000000000000
+      internalID: -6750749086817246844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

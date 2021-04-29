@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: 68739cfc4c55faf4787c0e7dd4da4465
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3538772734512015823
+    second: Fire_Bullet_Part1_0
+  - first:
+      213: 1085601487362381721
+    second: Fire_Bullet_Part1_1
+  - first:
+      213: 437904486190759937
+    second: Fire_Bullet_Part1_2
+  - first:
+      213: 8569199990395182551
+    second: Fire_Bullet_Part1_3
+  - first:
+      213: -6541861380020941007
+    second: Fire_Bullet_Part1_4
+  - first:
+      213: -2354096019702348317
+    second: Fire_Bullet_Part1_5
+  - first:
+      213: 3898004548772662405
+    second: Fire_Bullet_Part1_6
+  - first:
+      213: 2807812187096778377
+    second: Fire_Bullet_Part1_7
+  - first:
+      213: 8996813240301374752
+    second: Fire_Bullet_Part1_8
+  - first:
+      213: 1131977615492241521
+    second: Fire_Bullet_Part1_9
+  - first:
+      213: 8049653627346453866
+    second: Fire_Bullet_Part1_10
+  - first:
+      213: -5649993780587234781
+    second: Fire_Bullet_Part1_11
+  - first:
+      213: 4412098250853771323
+    second: Fire_Bullet_Part1_12
+  - first:
+      213: 347886199761117829
+    second: Fire_Bullet_Part1_13
+  - first:
+      213: 4401621354018267926
+    second: Fire_Bullet_Part1_14
+  - first:
+      213: 5748107865607338886
+    second: Fire_Bullet_Part1_15
+  - first:
+      213: 569232949499346998
+    second: Fire_Bullet_Part1_16
+  - first:
+      213: 3744377729877181423
+    second: Fire_Bullet_Part1_17
+  - first:
+      213: 1406608579159131071
+    second: Fire_Bullet_Part1_18
+  - first:
+      213: -7900325437740165949
+    second: Fire_Bullet_Part1_19
+  - first:
+      213: -6353571208504786245
+    second: Fire_Bullet_Part1_20
+  - first:
+      213: 1605626601957504538
+    second: Fire_Bullet_Part1_21
+  - first:
+      213: 4681886724596672269
+    second: Fire_Bullet_Part1_22
+  - first:
+      213: -471388598199753549
+    second: Fire_Bullet_Part1_23
+  - first:
+      213: 1377311714796146284
+    second: Fire_Bullet_Part1_24
+  - first:
+      213: 5583490149495309212
+    second: Fire_Bullet_Part1_25
+  - first:
+      213: -4918570939867971440
+    second: Fire_Bullet_Part1_26
+  - first:
+      213: 2039886865303721366
+    second: Fire_Bullet_Part1_27
+  - first:
+      213: 798222676102970741
+    second: Fire_Bullet_Part1_28
+  - first:
+      213: -8667719119646438705
+    second: Fire_Bullet_Part1_29
+  - first:
+      213: -8843922794854060186
+    second: Fire_Bullet_Part1_30
+  - first:
+      213: -4644594274546284654
+    second: Fire_Bullet_Part1_31
+  - first:
+      213: -5696525120461774728
+    second: Fire_Bullet_Part1_32
+  - first:
+      213: -8956381407166052544
+    second: Fire_Bullet_Part1_33
+  - first:
+      213: 6888304063695539113
+    second: Fire_Bullet_Part1_34
+  - first:
+      213: -8664401294807333705
+    second: Fire_Bullet_Part1_35
+  - first:
+      213: 2505347831780457789
+    second: Fire_Bullet_Part1_36
+  - first:
+      213: -7057788197168834199
+    second: Fire_Bullet_Part1_37
+  - first:
+      213: -5731539750056211967
+    second: Fire_Bullet_Part1_38
+  - first:
+      213: -6214135751707250917
+    second: Fire_Bullet_Part1_39
+  - first:
+      213: 4639548326301601094
+    second: Fire_Bullet_Part1_40
+  - first:
+      213: 3752851249069207832
+    second: Fire_Bullet_Part1_41
+  - first:
+      213: -3984750980321836972
+    second: Fire_Bullet_Part1_42
+  - first:
+      213: -8155160523937375949
+    second: Fire_Bullet_Part1_43
+  - first:
+      213: 2275975106866600987
+    second: Fire_Bullet_Part1_44
+  - first:
+      213: -151250125352548940
+    second: Fire_Bullet_Part1_45
+  - first:
+      213: -3311389763890722496
+    second: Fire_Bullet_Part1_46
+  - first:
+      213: -5074371850073652391
+    second: Fire_Bullet_Part1_47
+  - first:
+      213: -6717382531687305182
+    second: Fire_Bullet_Part1_48
+  - first:
+      213: -2059456025000723116
+    second: Fire_Bullet_Part1_49
+  - first:
+      213: -6286091104855658564
+    second: Fire_Bullet_Part1_50
+  - first:
+      213: -1980578467278993550
+    second: Fire_Bullet_Part1_51
+  - first:
+      213: 5020636416794734448
+    second: Fire_Bullet_Part1_52
+  - first:
+      213: 409138752260494703
+    second: Fire_Bullet_Part1_53
+  - first:
+      213: 8925874910513022979
+    second: Fire_Bullet_Part1_54
+  - first:
+      213: 8368183459483561253
+    second: Fire_Bullet_Part1_55
+  - first:
+      213: 2284275296821436618
+    second: Fire_Bullet_Part1_56
+  - first:
+      213: 7329579616734253073
+    second: Fire_Bullet_Part1_57
+  - first:
+      213: -8251243798370787860
+    second: Fire_Bullet_Part1_58
+  - first:
+      213: -3950573353547825851
+    second: Fire_Bullet_Part1_59
+  - first:
+      213: -3149450587003000235
+    second: Fire_Bullet_Part1_60
+  - first:
+      213: 6954224411330241685
+    second: Fire_Bullet_Part1_61
+  - first:
+      213: 4593691770199254963
+    second: Fire_Bullet_Part1_62
+  - first:
+      213: 8069403351622876502
+    second: Fire_Bullet_Part1_63
+  - first:
+      213: -5429824321765355023
+    second: Fire_Bullet_Part1_64
+  - first:
+      213: 4702843536958266808
+    second: Fire_Bullet_Part1_65
+  - first:
+      213: 8076748324665801732
+    second: Fire_Bullet_Part1_66
+  - first:
+      213: 7512314882080007230
+    second: Fire_Bullet_Part1_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 295
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d29a72f0c3eec0800000000000000
+      internalID: -3538772734512015823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 278
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997dedd0dc4d01f00800000000000000
+      internalID: 1085601487362381721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 295
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10043f06fcfb31600800000000000000
+      internalID: 437904486190759937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 276
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd19cc5df9ebe670800000000000000
+      internalID: 8569199990395182551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f41023cb3a635a0800000000000000
+      internalID: -6541861380020941007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50b728422945fd0800000000000000
+      internalID: -2354096019702348317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c837e0c7e781630800000000000000
+      internalID: 3898004548772662405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 263
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868ae7ce4a57f620800000000000000
+      internalID: 2807812187096778377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc1b299f91bdc70800000000000000
+      internalID: 8996813240301374752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178db11d4a795bf00800000000000000
+      internalID: 1131977615492241521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a658bee335d16bf60800000000000000
+      internalID: 8049653627346453866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7eec67903791b0800000000000000
+      internalID: -5649993780587234781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e24c9bfbea3d30800000000000000
+      internalID: 4412098250853771323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 244
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a50fc7a0f3d400800000000000000
+      internalID: 347886199761117829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 230
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613680afc43b51d30800000000000000
+      internalID: 4401621354018267926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b772426a165cf40800000000000000
+      internalID: 5748107865607338886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 230
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304b550a5256e700800000000000000
+      internalID: 569232949499346998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 213
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3863ee4b3b6f330800000000000000
+      internalID: 3744377729877181423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb30ccadc07458310800000000000000
+      internalID: 1406608579159131071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 212
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d3814fd76c5290800000000000000
+      internalID: -7900325437740165949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24ce506a493d7a0800000000000000
+      internalID: -6353571208504786245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16389333e4584610800000000000000
+      internalID: 1605626601957504538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a33a9b2769f040800000000000000
+      internalID: 4681886724596672269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 197
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b46225419a4579f0800000000000000
+      internalID: -471388598199753549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e886115b13d1310800000000000000
+      internalID: 1377311714796146284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 180
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938f8755ba8c7d40800000000000000
+      internalID: 5583490149495309212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 181
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0904c963ac9bdbbb0800000000000000
+      internalID: -4918570939867971440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695d964db422f4c10800000000000000
+      internalID: 2039886865303721366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d77c47b4bd31b00800000000000000
+      internalID: 798222676102970741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcacc9c526316b780800000000000000
+      internalID: -8667719119646438705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 165
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f6ebf3313144580800000000000000
+      internalID: -8843922794854060186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970bdb8d161b8fb0800000000000000
+      internalID: -4644594274546284654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 149
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87069cc9590e1f0b0800000000000000
+      internalID: -5696525120461774728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 149
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04744f8209a84b380800000000000000
+      internalID: -8956381407166052544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 149
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc375dc0c289f50800000000000000
+      internalID: 6888304063695539113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40397adecd1c780800000000000000
+      internalID: -8664401294807333705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db1104498c4c220800000000000000
+      internalID: 2505347831780457789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9699ec74703bd0e90800000000000000
+      internalID: -7057788197168834199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a4eddd6fa7570b0800000000000000
+      internalID: -5731539750056211967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f2f6d2574f2c9a0800000000000000
+      internalID: -6214135751707250917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 115
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d07731f9cf26040800000000000000
+      internalID: 4639548326301601094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 116
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811b6abd35ec41430800000000000000
+      internalID: 3752851249069207832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4500783781253b8c0800000000000000
+      internalID: -3984750980321836972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3399c6c16bc03de80800000000000000
+      internalID: -8155160523937375949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c5a621d43e59f10800000000000000
+      internalID: 2275975106866600987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5c026ffc6a6edf0800000000000000
+      internalID: -151250125352548940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049cd62ed849b02d0800000000000000
+      internalID: -3311389763890722496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534e1200b53499b0800000000000000
+      internalID: -5074371850073652391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2203d5a7d2017c2a0800000000000000
+      internalID: -6717382531687305182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 84
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d3b4f18a75b63e0800000000000000
+      internalID: -2059456025000723116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe55df17153c8a0800000000000000
+      internalID: -6286091104855658564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2774c08a0629384e0800000000000000
+      internalID: -1980578467278993550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa0797832eca540800000000000000
+      internalID: 5020636416794734448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655558078d8da500800000000000000
+      internalID: 409138752260494703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30843b690f31fdb70800000000000000
+      internalID: 8925874910513022979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d21d51582c12470800000000000000
+      internalID: 8368183459483561253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ed34a74063bf10800000000000000
+      internalID: 2284275296821436618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109360e3d5e7b560800000000000000
+      internalID: 7329579616734253073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedd6fa7b71bd7d80800000000000000
+      internalID: -8251243798370787860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d78aa477ebc29c0800000000000000
+      internalID: -3950573353547825851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6a0ca067ea44d0800000000000000
+      internalID: -3149450587003000235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59460bdc14e528060800000000000000
+      internalID: 6954224411330241685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7ac5a935210cf30800000000000000
+      internalID: 4593691770199254963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df3d248974cff60800000000000000
+      internalID: 8069403351622876502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1566c3c8365a4b0800000000000000
+      internalID: -5429824321765355023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd93a6b74bd34140800000000000000
+      internalID: 4702843536958266808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cbfef0fcf561070800000000000000
+      internalID: 8076748324665801732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Bullet_Part1_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346243559a114860800000000000000
+      internalID: 7512314882080007230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
