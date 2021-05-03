@@ -8,6 +8,7 @@ using CodeMonkey.Utils;
     ///</summary>
 public class PlayerAimWeapon : MonoBehaviour
 {
+    private static bool jogoPausado;
 
     private Transform aimTransform; //posição da mira
     private Animator aimAnimator; //animação na variavel
@@ -37,19 +38,23 @@ public class PlayerAimWeapon : MonoBehaviour
     }
     
     private void Update(){
-        HandleAiming();
-        HandleShooting();
-        if(podeAtirar == false){
-            reload -= Time.deltaTime; // se ele ainda ta em reload, vai diminuindo do temporizador
-        }
-        if(reload < 0){ //se acabou o tempo de reload
-            podeAtirar = true; //pode atirar
-            reload = oldReload; //reload recebe o valor antigo
-            qtdTiros = 0; //quantidade de tiros feitas volta a ser 0
-        }
-        if(qtdTiros == municao){ //se a quantidade de tiros realizados for igual a munição, chegou hora de recarregar
-            podeAtirar = false; //e portanto não pode atirar
-            
+        jogoPausado = PauseControl.jogoPausado;
+        if(!jogoPausado)
+        {
+            HandleAiming();
+            HandleShooting();
+            if(podeAtirar == false){
+                reload -= Time.deltaTime; // se ele ainda ta em reload, vai diminuindo do temporizador
+            }
+            if(reload < 0){ //se acabou o tempo de reload
+                podeAtirar = true; //pode atirar
+                reload = oldReload; //reload recebe o valor antigo
+                qtdTiros = 0; //quantidade de tiros feitas volta a ser 0
+            }
+            if(qtdTiros == municao){ //se a quantidade de tiros realizados for igual a munição, chegou hora de recarregar
+                podeAtirar = false; //e portanto não pode atirar
+                
+            }
         }
 
     }

@@ -27,8 +27,6 @@ public class BalaInimigo : MonoBehaviour
         if(col.gameObject.CompareTag("Player")) //se essa área for a do player
         {
             GameObject Enemy = col.gameObject; //põe o gameobject em enemy
-            //if(Atirador)
-            //{
                 danoCoroutine = StartCoroutine(target.DanoCaractere(danoBala, 1.0f)); //executa a coroutine e da dano no player com dano da bala
                 Destroy(objeto); //destroi a bala
            // }

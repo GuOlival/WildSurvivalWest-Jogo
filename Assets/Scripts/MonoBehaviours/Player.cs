@@ -9,7 +9,7 @@ public class Player : Caractere
 {
     public HealthBar healthBarPrefab;   //Refer�ncia ao objeto prefab criado da HealthBar
     HealthBar healthBar;
-
+    private static bool jogoPausado;
     public PontosDano pontosDano;         //Tem o valor da "sa�de" do objeto 
     private Animator aimAnimator;
     string estadoAnimacao = "EstadoAnimacao";

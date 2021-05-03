@@ -9,6 +9,7 @@ public class ManageButton : MonoBehaviour
     public void StartJogo()
     {
         SceneManager.LoadScene("Game_Scene"); //muda a cena para a do jogo principal
+        Time.timeScale = 1f;
     }
     
     //Bot�o abre a tela inicial

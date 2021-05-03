@@ -12,7 +12,7 @@ public class RPGGameManager : MonoBehaviour
     //
     private void Awake()
     {
-        jogoPausado = true;
+        
         //Qualquer outra inst�ncia que queira ser carregada, vai ser destru�da
         if (InstanciaCompartilhada != null && InstanciaCompartilhada != this)
         {
@@ -48,18 +48,11 @@ public class RPGGameManager : MonoBehaviour
     }
 
     // Update is called once per frame
-    bool jogoPausado;
+    
     void Update()
     {
-        if(Input.GetKey(KeyCode.Escape))
-        {
-            jogoPausado = true;
-            Time.timeScale = 0;
-        }
-        if(Input.GetKey(KeyCode.Escape) && jogoPausado)
-        {
-            jogoPausado = false;
-            Time.timeScale = 1;
-        }
+
     }
+
+    
 }
